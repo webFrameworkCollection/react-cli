@@ -1,1 +1,1 @@
-# react-cli
+react16+redux+antd+react-router4++webpack4+sass/less+axios+immutable+proxy
